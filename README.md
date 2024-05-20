@@ -1,3 +1,7 @@
+# Modifications
+
+Making some modifications and trying this on a project. 
+
 # PrettyPDF
 
 Quarto extension for a template to generate a PDF with (pretty) styling. This extension now allows you to style PDFs using either Typst or LaTeX. Use `PrettyPDF-pdf` as the format if using LaTeX, or `PrettyPDF-typst` if using Typst. The default is `PrettyPDF-pdf`. If using Typst, version 1.4 or greater of Quarto is required.
