@@ -5,3 +5,5 @@
 nul
 *.Rproj
 *.DS_Store
+
+/.luarc.json
